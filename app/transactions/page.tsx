@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { boutiqueData } from '@/data';
+import  boutiqueData  from '@/data';
 
 const Transactions = () => {
   return (

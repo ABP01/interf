@@ -1,4 +1,4 @@
-import { boutiqueData } from '@/data';
+import  boutiqueData  from '@/data';
 
 const Savings = () => {
     return (
